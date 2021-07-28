@@ -1,0 +1,8 @@
+icon.ico
+*.dmg
+.venv/
+build/
+dist/
+install/
+releases/
+.DS_Store
